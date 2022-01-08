@@ -1,3 +1,5 @@
+ ![Header image](https://raw.githubusercontent.com/madhavbiju/madhavbiju/main/assets/welcome.jpg)
+
 # Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <p>
   <em>
