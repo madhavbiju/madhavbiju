@@ -3,7 +3,7 @@
 # Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <p>
   <em>
-    I am a 3rd year undergraduate from <b>Saintgits College of Engineering </b>, Kottayam, Kerala. <br>
+    I am a final year undergraduate from <b>Saintgits College of Engineering </b>, Kottayam, Kerala. <br>
     A budding FrontEnd Developer and a Design Enthusiast, whose currently into Android Custom Rom Development.
   </em>
 </p>
