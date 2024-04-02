@@ -3,8 +3,8 @@
 # Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <p>
   <em>
-    I am a B.Tech Graduate from <b>Saintgits College of Engineering </b>, Kottayam, Kerala,<br>Currently working as a Trainee at <b>Experion Technologies<b>.<br>
-    A budding Frontend Developer and a Design Enthusiast, whose currently into Android Custom Rom Development.
+    I am a B.Tech Graduate from <b>Saintgits College of Engineering</b>, Kottayam, Kerala,<br>Currently working as an Associate Software Engineer at <b>Experion Technologies<b>.<br>
+    A Full Stack Developer and a Design Enthusiast, whose currently into Android Custom Rom Development.
   </em>
 </p>
 
